@@ -36,3 +36,5 @@ terraform.rc
 
 # MacOS specific files
 .DS_Store
+
+node_modules/
